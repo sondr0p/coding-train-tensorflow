@@ -10,3 +10,6 @@ Simply clone the repo and open index.html found in the linear regression or poly
 
 ## Linear Regression
 ![Alt Text](https://github.com/sondr0p/coding-train-tensorflow/blob/main/linear.gif)
+
+## Polynomial Regression
+![Alt Text](https://github.com/sondr0p/coding-train-tensorflow/blob/main/polynomial.gif)
