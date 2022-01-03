@@ -6,7 +6,7 @@ The examples demonstrate how to use [TensorFlow.js](https://www.tensorflow.org/j
 
 ## Usage
 
-Simply clone the repo and open index.html found in the linear regression or polynomial regression directories
+Simply clone the repo and open index.html found in the linear or polynomial regression directories
 
 ## Linear Regression
 ![Alt Text](https://github.com/sondr0p/coding-train-tensorflow/blob/main/linear.gif)
